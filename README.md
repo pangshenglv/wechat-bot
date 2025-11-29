@@ -170,3 +170,4 @@ $ docker run -d --rm --name wechat-bot -v $(pwd)/config.js:/app/config.js -v $(p
 ## License
 
 [MIT](./LICENSE).
+# automated-trading-bot
